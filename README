@@ -1,3 +1,6 @@
+NOTE: this is a merged version, combining the original struct plugin with the possibility to use struct data as variables in pages (as of 2020-08-07).
+
+
 struct Plugin for DokuWiki
 
 Add and query additional structured page data
